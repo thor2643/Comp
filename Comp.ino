@@ -13,7 +13,7 @@ int detected;
 float coords[2] = {20,0};
 float coords2[2] = {-10,-15};
 
-float second_coords_speedy[3][2] = {{12, -7}, {12, 13}, {-8, 13}}; //{{0, -30}, {16, -30}, {16, 10}, {-8, 13}}
+float second_coords_speedy[3][2] = {{12, -7}, {12, 13}, {-8, 13}}; 
 float second_coords_safe[3][2] = {{0, -30}, {14, -30}, {14, 12}};
 float second_coords[3][2];
 
@@ -68,7 +68,7 @@ void loop() {
                 delay(pause);
                 Rockxan.drive_to_line(speed_to_line);
                 delay(pause);
-                Rockxan.drive_straight(2, 25); //5, 12
+                Rockxan.drive_straight(2, 25);
 
                 delay(pause);
 

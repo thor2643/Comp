@@ -174,7 +174,7 @@ class Rockxanne{
 
         //Drives straight for a given distance [cm] with a given speed [cm/s]
         //Max speed is 50 cm/s and min. speed is 8 cm/s (depending on battery level)
-        void drive_straight(float dist, float real_speed, bool correction_active = true, float acc = 0, float deacc = 0){
+        void drive_straight(float dist, float real_speed, bool correction_active = true){
             //Convert physical speed in cm to 
             float speed = applied_speed(real_speed);
 
