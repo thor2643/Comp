@@ -2,7 +2,7 @@
 
 Zumo32U4LineSensors LineSensors;
 
-Rockxanne Rockxan;
+ZumoDrive Rockxan;
 int pause = 25; //ms
 int speed = 50; //cm/s
 int speed_to_line = 40;

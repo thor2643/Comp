@@ -6,9 +6,9 @@
 #include <Zumo32U4.h>
 
 
-//The Rockxanne class includes all useful methods for steering the zumo robot
+//The ZumoDrive class includes all useful methods for steering the zumo robot
 //Its attributes keep track of variables like current angle and position
-class Rockxanne{
+class ZumoDrive{
 
     //Private members can't be accesed with ex. Rockxan."member" 
     //To get information about private members you need to make public methods that returns the respective value
@@ -91,7 +91,7 @@ class Rockxanne{
         //---------------------Public methods---------------------//
 
         //initAll has to be called once in the setup() in main.ino
-        //initializes all inherited classes
+        //initializes all inherited clas ses (not that relevant for this program)
         void initAll(String display = "OLED"){
             //This init is found in ZumoCom.h
             initDisplay(display);               //takes parameter "OLED" or "LCD"
