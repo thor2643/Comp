@@ -1,5 +1,5 @@
 # P1 winning competition code
-<a href="#sec_contributors"><img src="https://img.shields.io/badge/Authors-Group_176-blue.svg"></a> ![](https://img.shields.io/badge/C++-20-brightgreen.svg) 
+<a href="#sec_contributors"><img src="https://img.shields.io/badge/Authors-Group_176-blue.svg"></a> ![](https://img.shields.io/badge/C++-11-brightgreen.svg)
 
 
 As part of a basic introduction to embedded programming using c++, we were to make a mini-project,
