@@ -34,7 +34,9 @@ This project was developed by group 176 on Aalborg University, Robot Technology 
     <td align="center"><a target="_blank" rel="noreferrer noopener" href="https://github.com/signeskuldbol"><img src="https://avatars.githubusercontent.com/u/117270262?v=4" width="100px;" alt=""/><br/><sub><b>Signe Møller-Skuldbøl</b></sub></a></br><a href="gttps://github.com/signeskuldbol" title="">👧</a></td>
     <td align="center"><a target="_blank" rel="noreferrer noopener" href="https://github.com/thor2643"><img src="https://avatars.githubusercontent.com/u/66319719?v=4" width="100px;" alt=""/><br/><sub><b>Thor Iversen</b></sub></a></br><a href="gttps://github.com/thor2643" title="">👨‍🌾</a></td>
     <td align="center"><a target="_blank" rel="noreferrer noopener" href="https://github.com/silasjensen2001"><img src="https://avatars.githubusercontent.com/u/54105795?v=4" width="100px;" alt=""/><br/><sub><b>Silas Jensen</b></sub></a></br><a href="gttps://github.com/silasjensen2001" title="">🤠</a></td>
-  <td align="center"><a target="_blank" rel="noreferrer noopener" href="https://github.com/nicopiko"><img src="https://avatars.githubusercontent.com/u/117265455?v=4" width="100px;" alt=""/><br/><sub><b>Nikolai Fosmark Stallknecht</b></sub></a></br><a href="gttps://github.com/nicopiko" title="">🐻</a></td>
+  <td align="center"><a target="_blank" rel="noreferrer noopener" href="https://github.com/nicopiko"><img src="https://avatars.githubusercontent.com/u/117265455?v=4" width="100px;" alt=""/><br/><sub><b>Nicolai Fosmark Stallknecht</b></sub></a></br><a href="gttps://github.com/nicopiko" title="">🐻</a></td>
+  <td align="center"><a target="_blank" rel="noreferrer noopener" href="https://github.com/nikkokid"><img src="https://avatars.githubusercontent.com/u/117265782?v=4" width="100px;" alt=""/><br/><sub><b>Nikolai Buurgaard Jørgensen</b></sub></a></br><a href="gttps://github.com/nikkokid" title="">😎</a></td>
+
   </tr>
 </table>
 
